@@ -3,7 +3,8 @@ from dash import dcc, html
 import plotly.graph_objects as go
 
 
-app = dash.Dash()
+app = dash.Dash(__name__)
+
 
 
 #Comparison chart code
