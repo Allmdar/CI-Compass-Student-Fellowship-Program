@@ -8,7 +8,7 @@ app = dash.Dash(__name__)
 comparison_chart = {
     'data': [
         {'x': ['Frontera (TACC)', 'Cheyenne (NCAR)'],
-         'y': [23.5, 1.26],
+         'y': [23.5, 13.2],
          'type': 'bar',
          'name': 'LINPACK Performance (petaflops)'},
         {'x': ['Frontera (TACC)', 'Cheyenne (NCAR)'],

@@ -1,4 +1,4 @@
-#This has not been added to web.py
+# Funding Visualizations
 
 import dash
 from dash import dcc, html

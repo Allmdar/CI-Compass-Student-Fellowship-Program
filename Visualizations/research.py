@@ -1,4 +1,4 @@
-# This has not been added to web.py
+# Research Domain visualization (Dash - Python)
 
 import dash
 from dash import dcc, html

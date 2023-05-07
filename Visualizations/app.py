@@ -1,3 +1,5 @@
+#LINPACK and Power Usage Visualization
+
 import dash
 from dash import dcc, html
 
