@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 
 
 app = dash.Dash(__name__)
-
+server = app.server
 
 
 #Comparison chart code
