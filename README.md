@@ -17,6 +17,30 @@ https://user-images.githubusercontent.com/76918821/233721489-f253c20b-a5fb-4234-
 - Funding and Support Sources Comparison
 - Software Ecosystem Comparison
 
+### Running website locally on your machine
+
+Make sure you have Python 3.7 or higher installed.
+
+1. Clone the repository or download the source code.
+
+2. Navigate to the project directory and create a virtual environment using the following command:
+`python -m venv venv`
+3. Activate the virtual environment:
+
+- On Windows: `venv\Scripts\activate`
+- On macOS/Linux: `source venv/bin/activate`
+4. Install the required packages using pip:
+`pip install -r requirements.txt`
+5. Run the dash app (website):
+`python3 website.py`
+6. Make sure you see the following ouput on the terminal:
+```
+Dash is running on http://127.0.0.1:8050/
+
+ * Serving Flask app 'website'
+ * Debug mode: on 
+ ```
+7. Follow the link and enjoy the visualizations!
 
 
 
