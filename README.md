@@ -1,5 +1,12 @@
 # Comparative Analysis of High-Performance Computing Facilities (TACC & NCAR)
+## Table of Contents
+1. [Introduction](#introduction)
+1. [Video Demonstration](#video-demonstration)
+2. [Features](#features)
+3. [Running website locally on your machine](#running-website-locally-on-your-machine)
+4. [Poster](#poster)
 
+### Introduction
 This is a Dash web application that visualizes the comparison between Texas Advanced Computing Center (TACC) and National Center for Atmospheric Research (NCAR) in terms of their high-performance computing capabilities, data storage systems, research domains, funding, and software ecosystem.
 
 The application is deployed on Heroku and is built using Python, Dash, and Plotly.
