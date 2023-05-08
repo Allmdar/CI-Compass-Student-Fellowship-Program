@@ -42,6 +42,12 @@ Dash is running on http://127.0.0.1:8050/
  ```
 7. Follow the link and enjoy the visualizations!
 
+### Poster 
+This is the poster I submitted for my CI Compass Fellowship Program (INFO-I 499 - 3 credits)
+
+[![PDF Preview](Poster+Presentation/Img.jpg)](Poster+Presentation/poster.pdf)
+
+
 
 
 
